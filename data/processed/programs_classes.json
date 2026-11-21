@@ -1,0 +1,587 @@
+[
+  {
+    "id": "programs-classes_fact_001",
+    "namespace": "programs-classes",
+    "title": "Faculty of Computing & Information Technology",
+    "text": "The Faculty of Computing offers 4-year undergraduate programs including BS Computer Science, BS Software Engineering, BS Artificial Intelligence, and BS Data Science, along with MS and PhD degrees in Computer Science.",
+    "spoken_text": "The Faculty of Computing offers 4-year undergraduate programs including Bachelor of Science Computer Science, Bachelor of Science Software Engineering, Bachelor of Science Artificial Intelligence, and Bachelor of Science Data Science, along with Master of Science and Doctor of Philosophy degrees in Computer Science.",
+    "metadata": {
+      "faculty": "Computing & IT",
+      "degrees": "BS CS, BS SE, BS AI, BS Data Science, MS CS, PhD CS"
+    }
+  },
+  {
+    "id": "programs-classes_fact_002",
+    "namespace": "programs-classes",
+    "title": "Faculty of Engineering",
+    "text": "The Faculty of Engineering offers Pakistan Engineering Council accredited B.Sc Electrical Engineering with specialized streams in Telecommunication, Power, and Electronics, as well as B.Sc Software Engineering.",
+    "spoken_text": "The Faculty of Engineering offers Pakistan Engineering Council accredited Bachelor of Science Electrical Engineering with specialized streams in Telecommunication, Power, and Electronics, as well as Bachelor of Science Software Engineering.",
+    "metadata": {
+      "faculty": "Engineering",
+      "degrees": "B.Sc Electrical Engineering, B.Sc Software Engineering"
+    }
+  },
+  {
+    "id": "programs-classes_fact_003",
+    "namespace": "programs-classes",
+    "title": "Faculty of Allied Health Sciences",
+    "text": "The Allied Health Sciences institute offers Doctor of Physical Therapy (5-year DPT), BS Medical Laboratory Technology (MLT), BS Cardiology Technology, BS Radiology, BS Anesthesia, and BS Dental Technology.",
+    "spoken_text": "The Allied Health Sciences institute offers Doctor of Physical Therapy 5-year Doctor of Physical Therapy , Bachelor of Science Medical Laboratory Technology Medical Laboratory Technology , Bachelor of Science Cardiology Technology, Bachelor of Science Radiology, Bachelor of Science Anesthesia, and Bachelor of Science Dental Technology.",
+    "metadata": {
+      "faculty": "Allied Health",
+      "degrees": "DPT, MLT, Cardiology, Radiology, Anesthesia"
+    }
+  },
+  {
+    "id": "programs-classes_fact_004",
+    "namespace": "programs-classes",
+    "title": "Faculty of Business & Social Sciences",
+    "text": "The Institute of Management Sciences offers BBA (4-year), MBA (1.5 and 2 years), BS Accounting and Finance, and BS Economics. The Department of Law offers 5-year LLB accredited by the Pakistan Bar Council.",
+    "spoken_text": "The Institute of Management Sciences offers Bachelor of Business Administration 4-year , Master of Business Administration 1.5 and 2 years , Bachelor of Science Accounting and Finance, and Bachelor of Science Economics. The Department of Law offers 5-year Bachelor of Laws accredited by the Pakistan Bar Council.",
+    "metadata": {
+      "faculty": "Business & Social Sciences",
+      "degrees": "BBA, MBA, BS Accounting, LLB 5-Year"
+    }
+  },
+  {
+    "id": "programs-classes_fact_005",
+    "namespace": "programs-classes",
+    "title": "Faculty of Natural and Physical Sciences",
+    "text": "Departments include Biotechnology and Microbiology, Chemical Sciences, Plant Biodiversity, Physics and Material Sciences, and Mathematical Sciences, offering BS, MS, and PhD programs.",
+    "spoken_text": "Departments include Biotechnology and Microbiology, Chemical Sciences, Plant Biodiversity, Physics and Material Sciences, and Mathematical Sciences, offering Bachelor of Science, Master of Science, and Doctor of Philosophy programs.",
+    "metadata": {
+      "faculty": "Natural Sciences",
+      "degrees": "Biotech, Microbiology, Chemistry, Physics, Mathematics"
+    }
+  },
+  {
+    "id": "programs-classes_fact_006",
+    "namespace": "programs-classes",
+    "title": "Class Timings and Semester System",
+    "text": "Undergraduate regular classes are conducted in the Morning Shift from 8:30 AM to 3:30 PM, Monday through Friday. Self-finance and evening programs run from 2:00 PM to 6:30 PM. Each semester spans 16 to 18 weeks of teaching followed by examinations.",
+    "spoken_text": "Undergraduate regular classes are conducted in the Morning Shift from 8:30 AM to 3:30 PM, Monday through Friday. Self-finance and evening programs run from 2:00 PM to 6:30 PM. Each semester spans 16 to 18 weeks of teaching followed by examinations.",
+    "metadata": {
+      "schedule": "Morning 8:30 AM - 3:30 PM, Evening 2:00 PM - 6:30 PM"
+    }
+  },
+  {
+    "id": "programs-classes_69037c83",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Computer Science The Department of Computer Science was established in 2005 in the Institute of Information Technology, UST Bannu. But later on in 2011 the name of IIT changed to Institute of Engineering and Computing Sciences (IECS), which is located in City Campus - A, Kohat Road Bannu City. The department have own state of Art Labortories facilities and dedicated qualified and experienced faculty. • BS (Computer Science) • BS (Artificial Intelligence) • MS (Computer Science) • PhD (Computer Science)",
+    "spoken_text": "Department of Computer Science The Department of Computer Science was established in 2005 in the Institute of Information Technology, UST Bannu. But later on in 2011 the name of IIT changed to Institute of Engineering and Computing Sciences IECS , which is located in City Campus - A, Kohat Road Bannu City. The department have own state of Art Labortories facilities and dedicated qualified and experienced faculty. • Bachelor of Science Computer Science • Bachelor of Science Artificial Intelligence • Master of Science Computer Science • Doctor of Philosophy Computer Science",
+    "metadata": {
+      "source_file": "programs_classes_page_0.html"
+    }
+  },
+  {
+    "id": "programs-classes_95f76207",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Computer Science • BS (Computer Science) • BS (Artificial Intelligence) • MS (Computer Science) • PhD (Computer Science)",
+    "spoken_text": "Department of Computer Science • Bachelor of Science Computer Science • Bachelor of Science Artificial Intelligence • Master of Science Computer Science • Doctor of Philosophy Computer Science",
+    "metadata": {
+      "source_file": "programs_classes_page_1.html"
+    }
+  },
+  {
+    "id": "programs-classes_3c32cad2",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_10.html"
+    }
+  },
+  {
+    "id": "programs-classes_a06579ee",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_11.html"
+    }
+  },
+  {
+    "id": "programs-classes_ca371543",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_12.html"
+    }
+  },
+  {
+    "id": "programs-classes_c2a906f5",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_13.html"
+    }
+  },
+  {
+    "id": "programs-classes_1c2c6145",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_14.html"
+    }
+  },
+  {
+    "id": "programs-classes_e91ad4cd",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Biotechnology and Microbiology Biotechnology is an old field but the recent development in DNA technology and other related fields has greatly enhanced its potential. The launching of Biotechnology at UST Bannu is to strengthen teaching and research in Biotechnology thereby assimilating the progress made in the world and undertaking research for solving our own specific problems so that we may share the immense benefits which the discipline offers. • Bachelor of Science • Master of Philosophy • Doctor of Philosophy",
+    "spoken_text": "Department of Biotechnology and Microbiology Biotechnology is an old field but the recent development in DNA technology and other related fields has greatly enhanced its potential. The launching of Biotechnology at UST Bannu is to strengthen teaching and research in Biotechnology thereby assimilating the progress made in the world and undertaking research for solving our own specific problems so that we may share the immense benefits which the discipline offers. • Bachelor of Science • Master of Philosophy • Doctor of Philosophy",
+    "metadata": {
+      "source_file": "programs_classes_page_15.html"
+    }
+  },
+  {
+    "id": "programs-classes_3aa35435",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Biotechnology and Microbiology • Bachelor of Science • Master of Philosophy • Doctor of Philosophy",
+    "spoken_text": "Department of Biotechnology and Microbiology • Bachelor of Science • Master of Philosophy • Doctor of Philosophy",
+    "metadata": {
+      "source_file": "programs_classes_page_16.html"
+    }
+  },
+  {
+    "id": "programs-classes_1cbf2f27",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Biotechnology and Microbiology • Bachelor of Science • Master of Philosophy • Doctor of Philosophy",
+    "spoken_text": "Department of Biotechnology and Microbiology • Bachelor of Science • Master of Philosophy • Doctor of Philosophy",
+    "metadata": {
+      "source_file": "programs_classes_page_17.html"
+    }
+  },
+  {
+    "id": "programs-classes_edae75d3",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Plant Biodiversity Keeping in view the role of plant Science in boosting the agri-economy eradication of pollution, extension of forests, development of pharmaceutical industry etc. it is necessary to launch a program of cutting edge research in all the major fields of plant sciences, and this is the role that the Department of Botany is committed to play at UST Bannu. Department of Botany has now as well equipped laboratory. The laboratory has all the requisite modern scientific tools and equipments. The Department library has all the latest books recommended in HEC new syllabi (2005) for BS (Hons) and MSc programmes. In addition access to all the reading material is also available through internet facility.",
+    "spoken_text": "Department of Plant Biodiversity Keeping in view the role of plant Science in boosting the agri-economy eradication of pollution, extension of forests, development of pharmaceutical industry etc. it is necessary to launch a program of cutting edge research in all the major fields of plant sciences, and this is the role that the Department of Botany is committed to play at UST Bannu. Department of Botany has now as well equipped laboratory. The laboratory has all the requisite modern scientific tools and equipments. The Department library has all the latest books recommended in Higher Education Commission new syllabi 2005 for Bachelor of Science Hons and MSc programmes. In addition access to all the reading material is also available through internet facility.",
+    "metadata": {
+      "source_file": "programs_classes_page_18.html"
+    }
+  },
+  {
+    "id": "programs-classes_f12929a6",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Plant Biodiversity",
+    "spoken_text": "Department of Plant Biodiversity",
+    "metadata": {
+      "source_file": "programs_classes_page_19.html"
+    }
+  },
+  {
+    "id": "programs-classes_c38de85e",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Computer Science • BS (Computer Science) • BS (Artificial Intelligence) • MS (Computer Science) • PhD (Computer Science)",
+    "spoken_text": "Department of Computer Science • Bachelor of Science Computer Science • Bachelor of Science Artificial Intelligence • Master of Science Computer Science • Doctor of Philosophy Computer Science",
+    "metadata": {
+      "source_file": "programs_classes_page_2.html"
+    }
+  },
+  {
+    "id": "programs-classes_5b420684",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Plant Biodiversity",
+    "spoken_text": "Department of Plant Biodiversity",
+    "metadata": {
+      "source_file": "programs_classes_page_20.html"
+    }
+  },
+  {
+    "id": "programs-classes_6180e84c",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Zoological Sciences",
+    "spoken_text": "Department of Zoological Sciences",
+    "metadata": {
+      "source_file": "programs_classes_page_21.html"
+    }
+  },
+  {
+    "id": "programs-classes_3b8617d4",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "The Department of Zoology has been established recently in 2018 with start of B.S. Zoology Degree Program and 76 students got admitted in the first semester comprising of two batches. Very recently, MSc Zoology Degree Program has also been started in December, 2018. This is one of the five departments in the Faculty of Basic Sciences of USTB. Zoology as a subject is multidisciplinary in nature, involving study of organisms and their genetic, morphological and physiological attributes, their surrounding environment, and their role in conservation of environment. Zoology is a combination of various disciplines such as Genetics, Physiology, Ecology, Developmental Biology, Microbiology, Parasitology, Entomology, Evolution, Taxonomy, Freshwater Biology, Fisheries and Wildlife etc. This subject has significant role in human resource development, food security, environmental conservation, and sustainable development and ultimately in alleviation of poverty. To meet the quality standards of HEC, a post graduate lab is also being developed to start research based degree programs i.e. M.Phil and PhD in Zoology. Under the leadership of worthy Vice Chancellor, the Department has regular research ties with institutions like, PARC / NARC, Islamabad National Institute of Health, Islamabad and other reputed organizations of the country.",
+    "spoken_text": "The Department of Zoology has been established recently in 2018 with start of B.S. Zoology Degree Program and 76 students got admitted in the first semester comprising of two batches. Very recently, MSc Zoology Degree Program has also been started in December, 2018. This is one of the five departments in the Faculty of Basic Sciences of University of Science and Technology Bannu. Zoology as a subject is multidisciplinary in nature, involving study of organisms and their genetic, morphological and physiological attributes, their surrounding environment, and their role in conservation of environment. Zoology is a combination of various disciplines such as Genetics, Physiology, Ecology, Developmental Biology, Microbiology, Parasitology, Entomology, Evolution, Taxonomy, Freshwater Biology, Fisheries and Wildlife etc. This subject has significant role in human resource development, food security, environmental conservation, and sustainable development and ultimately in alleviation of poverty. To meet the quality standards of Higher Education Commission, a post graduate lab is also being developed to start research based degree programs i.e. Master of Philosophy and Doctor of Philosophy in Zoology. Under the leadership of worthy Vice Chancellor, the Department has regular research ties with institutions like, PARC / NARC, Islamabad National Institute of Health, Islamabad and other reputed organizations of the country.",
+    "metadata": {
+      "source_file": "programs_classes_page_21.html"
+    }
+  },
+  {
+    "id": "programs-classes_8c716923",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "The department of Zoology promotes learning and practical implementation at all level of biological organizations and as modular, cellular, organismal, population, community and ecosystem. Reflecting the importance of strong disciplinary and inter disciplinary approaches in research teaching also recognizing the essential role of science and biology in the life general popular today and tomorrow. Also emphasizing biological literacy in teaching and out needs Programs. The mission of Department of Zoology is to promote excellence in undergraduate and graduate education and research. To promote the discovery and broad communication of knowledge about biology of animals, including their importance for human beings and about their environments. OBJECTIVES AND OUTCOMES",
+    "spoken_text": "The department of Zoology promotes learning and practical implementation at all level of biological organizations and as modular, cellular, organismal, population, community and ecosystem. Reflecting the importance of strong disciplinary and inter disciplinary approaches in research teaching also recognizing the essential role of science and biology in the life general popular today and tomorrow. Also emphasizing biological literacy in teaching and out needs Programs. The mission of Department of Zoology is to promote excellence in undergraduate and graduate education and research. To promote the discovery and broad communication of knowledge about biology of animals, including their importance for human beings and about their environments. OBJECTIVES AND OUTCOMES",
+    "metadata": {
+      "source_file": "programs_classes_page_21.html"
+    }
+  },
+  {
+    "id": "programs-classes_a65256ae",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "To impart knowledge about the major disciplines of Zoological Science. It will help the students to understand the principles of organizations and inter-relationships in the biological systems with particular reference to animal diversity. To teach different methods of exploration, investigation, organization of data and its utilization in practical life. To train / educate students for advanced studies and specialization on recently emerging technological and multidisciplinary fields such as Genetic Engineering, Biodiversity, Environmental Science, Wildlife and conservation, Fisheries and aquaculture, Pests and pest management, Biotechnology, etc. After completing the degree, students will be able to apply their knowledge to their respective fields effectively.",
+    "spoken_text": "To impart knowledge about the major disciplines of Zoological Science. It will help the students to understand the principles of organizations and inter-relationships in the biological systems with particular reference to animal diversity. To teach different methods of exploration, investigation, organization of data and its utilization in practical life. To train / educate students for advanced studies and specialization on recently emerging technological and multidisciplinary fields such as Genetic Engineering, Biodiversity, Environmental Science, Wildlife and conservation, Fisheries and aquaculture, Pests and pest management, Biotechnology, etc. After completing the degree, students will be able to apply their knowledge to their respective fields effectively.",
+    "metadata": {
+      "source_file": "programs_classes_page_21.html"
+    }
+  },
+  {
+    "id": "programs-classes_37a10b36",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "To equip students with knowledge and skills for better planning and management of animal resources, environment, health, medicine, agriculture and population in the country. To develop the scientific culture and demonstrate professional skills in teaching / research/ managerial positions in wide range of professions in national and international organizations.",
+    "spoken_text": "To equip students with knowledge and skills for better planning and management of animal resources, environment, health, medicine, agriculture and population in the country. To develop the scientific culture and demonstrate professional skills in teaching / research/ managerial positions in wide range of professions in national and international organizations.",
+    "metadata": {
+      "source_file": "programs_classes_page_21.html"
+    }
+  },
+  {
+    "id": "programs-classes_6b6b68d7",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Zoological Sciences",
+    "spoken_text": "Department of Zoological Sciences",
+    "metadata": {
+      "source_file": "programs_classes_page_22.html"
+    }
+  },
+  {
+    "id": "programs-classes_76a36cf2",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Department of Zoological Sciences",
+    "spoken_text": "Department of Zoological Sciences",
+    "metadata": {
+      "source_file": "programs_classes_page_23.html"
+    }
+  },
+  {
+    "id": "programs-classes_682ed928",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_24.html"
+    }
+  },
+  {
+    "id": "programs-classes_69240287",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_25.html"
+    }
+  },
+  {
+    "id": "programs-classes_375cac4b",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_26.html"
+    }
+  },
+  {
+    "id": "programs-classes_41fa24cb",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_27.html"
+    }
+  },
+  {
+    "id": "programs-classes_258a3cef",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_28.html"
+    }
+  },
+  {
+    "id": "programs-classes_8392ff41",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_29.html"
+    }
+  },
+  {
+    "id": "programs-classes_696167ca",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_3.html"
+    }
+  },
+  {
+    "id": "programs-classes_23c49958",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_30.html"
+    }
+  },
+  {
+    "id": "programs-classes_ca059411",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_31.html"
+    }
+  },
+  {
+    "id": "programs-classes_f6b54c41",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_32.html"
+    }
+  },
+  {
+    "id": "programs-classes_36b86ccb",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_33.html"
+    }
+  },
+  {
+    "id": "programs-classes_88ad5445",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_34.html"
+    }
+  },
+  {
+    "id": "programs-classes_4912f074",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_35.html"
+    }
+  },
+  {
+    "id": "programs-classes_a933b904",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_36.html"
+    }
+  },
+  {
+    "id": "programs-classes_45d790f7",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_37.html"
+    }
+  },
+  {
+    "id": "programs-classes_913c5b31",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_38.html"
+    }
+  },
+  {
+    "id": "programs-classes_385fae0e",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_39.html"
+    }
+  },
+  {
+    "id": "programs-classes_d8a8149a",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_4.html"
+    }
+  },
+  {
+    "id": "programs-classes_474534ca",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_40.html"
+    }
+  },
+  {
+    "id": "programs-classes_8f711c2d",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_41.html"
+    }
+  },
+  {
+    "id": "programs-classes_4e95d86f",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_42.html"
+    }
+  },
+  {
+    "id": "programs-classes_7c9e8b54",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_43.html"
+    }
+  },
+  {
+    "id": "programs-classes_c7387622",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_44.html"
+    }
+  },
+  {
+    "id": "programs-classes_fc332881",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_45.html"
+    }
+  },
+  {
+    "id": "programs-classes_0f69495b",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_46.html"
+    }
+  },
+  {
+    "id": "programs-classes_fad6a74c",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_47.html"
+    }
+  },
+  {
+    "id": "programs-classes_e78d311b",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_5.html"
+    }
+  },
+  {
+    "id": "programs-classes_31862944",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_6.html"
+    }
+  },
+  {
+    "id": "programs-classes_84c197c4",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_7.html"
+    }
+  },
+  {
+    "id": "programs-classes_84e23557",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_8.html"
+    }
+  },
+  {
+    "id": "programs-classes_e80ecb23",
+    "namespace": "programs-classes",
+    "title": "UST Bannu",
+    "text": "Invalid department or content type.",
+    "spoken_text": "Invalid department or content type.",
+    "metadata": {
+      "source_file": "programs_classes_page_9.html"
+    }
+  }
+]

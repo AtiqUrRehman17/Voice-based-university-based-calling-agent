@@ -1,0 +1,146 @@
+[
+  {
+    "id": "campus-admin_fact_001",
+    "namespace": "campus-admin",
+    "title": "Main Campus Location & Administration Block",
+    "text": "University of Science and Technology Bannu Main Campus is located on Bannu-Miranshah Road, Bannu, Khyber Pakhtunkhwa. The Central Administration Block houses the Vice Chancellor Secretariat, Registrar Office, Academic Branch, and Directorate of Admissions.",
+    "spoken_text": "University of Science and Technology Bannu Main Campus is located on Bannu-Miranshah Road, Bannu, Khyber Pakhtunkhwa. The Central Administration Block houses the Vice Chancellor Secretariat, Registrar Office, Academic Branch, and Directorate of Admissions.",
+    "metadata": {
+      "location": "Bannu-Miranshah Road, Bannu, KPK",
+      "offices": "VC, Registrar, Admissions, Academic Branch"
+    }
+  },
+  {
+    "id": "campus-admin_fact_002",
+    "namespace": "campus-admin",
+    "title": "Admission Office Contacts & Helpdesk",
+    "text": "For direct admission queries, students can contact the Admission Directorate on landline numbers 0928-633817 and 0928-633818, or mobile helpline 0335-9082523. Official email is admissions@ustb.edu.pk.",
+    "spoken_text": "For direct admission queries, students can contact the Admission Directorate on landline numbers 0928-633817 and 0928-633818, or mobile helpline 0335-9082523. Official email is admissions@ustb.edu.pk.",
+    "metadata": {
+      "landline": "0928-633817-18",
+      "mobile": "0335-9082523",
+      "email": "admissions@ustb.edu.pk"
+    }
+  },
+  {
+    "id": "campus-admin_fact_003",
+    "namespace": "campus-admin",
+    "title": "Hostel Facilities for Male & Female Students",
+    "text": "UST Bannu provides on-campus residential hostels for both male and female outstation students. Facilities include furnished rooms, 24-hour security, high-speed Wi-Fi internet, prayer areas, and dedicated dining halls.",
+    "spoken_text": "UST Bannu provides on-campus residential hostels for both male and female outstation students. Facilities include furnished rooms, 24-hour security, high-speed Wi-Fi internet, prayer areas, and dedicated dining halls.",
+    "metadata": {
+      "hostels": "Boys & Girls Hostels Available",
+      "amenities": "Wi-Fi, Mess, Security"
+    }
+  },
+  {
+    "id": "campus-admin_fact_004",
+    "namespace": "campus-admin",
+    "title": "Transport & Bus Routes",
+    "text": "The university operates a fleet of student buses covering major pick-up points across Bannu city, Naurang, Domel, and surrounding areas. Subsidized transport passes are issued by the Transport Office at the start of each semester.",
+    "spoken_text": "The university operates a fleet of student buses covering major pick-up points across Bannu city, Naurang, Domel, and surrounding areas. Subsidized transport passes are issued by the Transport Office at the start of each semester.",
+    "metadata": {
+      "transport": "Buses covering Bannu City, Naurang, Domel"
+    }
+  },
+  {
+    "id": "campus-admin_fact_005",
+    "namespace": "campus-admin",
+    "title": "Central Library & Student Facilitation Centre",
+    "text": "The Central Library offers access to thousands of textbooks, research journals, and HEC digital library resources. The Student Facilitation Centre assists with fee vouchers, degree verifications, roll number slips, and student cards.",
+    "spoken_text": "The Central Library offers access to thousands of textbooks, research journals, and Higher Education Commission digital library resources. The Student Facilitation Centre assists with fee vouchers, degree verifications, roll number slips, and student cards.",
+    "metadata": {
+      "facilities": "Central Library, Digital Library, Facilitation Centre"
+    }
+  },
+  {
+    "id": "campus-admin_6a795f5d",
+    "namespace": "campus-admin",
+    "title": "About - UST Bannu",
+    "text": "University of Science and Technology Bannu (UST Bannu) aspiration is to bridge disciplines and establish new partnerships while identifying creative approachesof enhancing academic quality and research potentialities. The UST Bannu is a newly established Public Sector University in Khyber Pakhtunkhwa under Provincial Assembly Act No.XIII, 2005 vide Notification No: PA/NWFP/Legis:1/2005/28/16 dated, Peshawar, the 15/11/2005.",
+    "spoken_text": "University of Science and Technology Bannu UST Bannu aspiration is to bridge disciplines and establish new partnerships while identifying creative approachesof enhancing academic quality and research potentialities. The UST Bannu is a newly established Public Sector University in Khyber Pakhtunkhwa under Provincial Assembly Act No.XIII, 2005 vide Notification No: PA/NWFP/Legis:1/2005/28/16 dated, Peshawar, the 15/11/2005.",
+    "metadata": {
+      "source_file": "campus_admin_page_0.html"
+    }
+  },
+  {
+    "id": "campus-admin_93d50f1f",
+    "namespace": "campus-admin",
+    "title": "About - UST Bannu",
+    "text": "UST Bannu is paving towards the journey to impart high quality education in the fields of Life Sciences, Engineering and Technology, Social Sciences, Physical Sciences, Business Studies and Humanities. Since its inception, the UST Bannu is pursuing its mission successfully. The first academic year was started in September 2005 with total intake of 200 students in various disciplines of IECS (Institute of Engineering and Computing Sciences) and IMS (Institute of Management Sciences) after conducting proper entry tests and interviews. Presently Bachelor, Master and Ph.D level degrees are offered. It is worth mentioning that the number of students would increase by initiating new faculties and higher enrollment rate in colleges of the affiliated region. The UST Bannu is an autonomous body and is governed by the Chancellor’s Committee till the formation of Syndicate. This Committee is headed by the Governor of the Khyber Pakhtunkhwa vide Ordinance 2005, comprises seven members, the major policy making and controlling body of the University. The Committee is a think tank of leading experts in the field of education, religious scholars, and representatives of the business community and senior officials of the government. This committee would work as a bridge/link between the University and the communities/business world, which is always considered to be an essential requirement for a dynamic seat of learning, working on sound grounds.",
+    "spoken_text": "UST Bannu is paving towards the journey to impart high quality education in the fields of Life Sciences, Engineering and Technology, Social Sciences, Physical Sciences, Business Studies and Humanities. Since its inception, the UST Bannu is pursuing its mission successfully. The first academic year was started in September 2005 with total intake of 200 students in various disciplines of IECS Institute of Engineering and Computing Sciences and Institute of Management Sciences Institute of Management Sciences after conducting proper entry tests and interviews. Presently Bachelor, Master and Ph.D level degrees are offered. It is worth mentioning that the number of students would increase by initiating new faculties and higher enrollment rate in colleges of the affiliated region. The UST Bannu is an autonomous body and is governed by the Chancellor’s Committee till the formation of Syndicate. This Committee is headed by the Governor of the Khyber Pakhtunkhwa vide Ordinance 2005, comprises seven members, the major policy making and controlling body of the University. The Committee is a think tank of leading experts in the field of education, religious scholars, and representatives of the business community and senior officials of the government. This committee would work as a bridge/link between the University and the communities/business world, which is always considered to be an essential requirement for a dynamic seat of learning, working on sound grounds.",
+    "metadata": {
+      "source_file": "campus_admin_page_0.html"
+    }
+  },
+  {
+    "id": "campus-admin_f5ad1ea5",
+    "namespace": "campus-admin",
+    "title": "Directorate of Student Affairs",
+    "text": "Directorate of Student Affairs\n – Staff Members No staff members listed for this office yet.",
+    "spoken_text": "Directorate of Student Affairs , Staff Members No staff members listed for this office yet.",
+    "metadata": {
+      "source_file": "campus_admin_page_2.html"
+    }
+  },
+  {
+    "id": "campus-admin_2c8860ba",
+    "namespace": "campus-admin",
+    "title": "UST Bannu",
+    "text": "Department or Office not found.",
+    "spoken_text": "Department or Office not found.",
+    "metadata": {
+      "source_file": "campus_admin_page_3.html"
+    }
+  },
+  {
+    "id": "campus-admin_339b6a48",
+    "namespace": "campus-admin",
+    "title": "UST Bannu",
+    "text": "Department or Office not found.",
+    "spoken_text": "Department or Office not found.",
+    "metadata": {
+      "source_file": "campus_admin_page_4.html"
+    }
+  },
+  {
+    "id": "campus-admin_ec038d84",
+    "namespace": "campus-admin",
+    "title": "Department of Sport Sciences & Physical Education",
+    "text": "Department of Sport Sciences & Physical Education – Staff Members Email: ustbannusports@gmail.com Email: nazir.ustsports@gmail.com M.Phil (Sports Sciences and Physical Education) Email: haseenjan.ustb@gmail.com Phone: +92 334 9104986 No news found for this department.",
+    "spoken_text": "Department of Sport Sciences & Physical Education , Staff Members Email: ustbannusports@gmail.com Email: nazir.ustsports@gmail.com Master of Philosophy Sports Sciences and Physical Education Email: haseenjan.ustb@gmail.com Phone: +92 334 9104986 No news found for this department.",
+    "metadata": {
+      "source_file": "campus_admin_page_5.html"
+    }
+  },
+  {
+    "id": "campus-admin_34ec4d56",
+    "namespace": "campus-admin",
+    "title": "IT Resource Center",
+    "text": "IT Resource Center – Staff Members Email: director.itrc@ustb.edu.pk MS (Computer Science) Email: kabirbangash118@ustb.edu.pk Email: networkengineer@ustb.edu.pk Email: gulonline123@gmail.com Inauguration & Establishment of ORIC and ITRC Directorates",
+    "spoken_text": "Information Technology Resource Center , Staff Members Email: director.itrc@ustb.edu.pk Master of Science Computer Science Email: kabirbangash118@ustb.edu.pk Email: networkengineer@ustb.edu.pk Email: gulonline123@gmail.com Inauguration & Establishment of Office of Research Innovation and Commercialization and ITRC Directorates",
+    "metadata": {
+      "source_file": "campus_admin_page_6.html"
+    }
+  },
+  {
+    "id": "campus-admin_d8fb6831",
+    "namespace": "campus-admin",
+    "title": "UST Bannu",
+    "text": "Department or Office not found.",
+    "spoken_text": "Department or Office not found.",
+    "metadata": {
+      "source_file": "campus_admin_page_7.html"
+    }
+  },
+  {
+    "id": "campus-admin_06981080",
+    "namespace": "campus-admin",
+    "title": "UST Bannu",
+    "text": "Quality Enhancement Cell • Teachers Evaluation",
+    "spoken_text": "Quality Enhancement Cell • Teachers Evaluation",
+    "metadata": {
+      "source_file": "campus_admin_page_8.html"
+    }
+  }
+]
