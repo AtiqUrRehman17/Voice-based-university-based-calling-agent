@@ -17,7 +17,12 @@ def main():
     logger.info("=====================================================")
     spider = USTBSpider()
     report = spider.run()
-    logger.info(f"Done! Raw pages stored in data/raw/html, PDFs in data/raw/pdfs")
+    summary = report.get("summary", {})
+    logger.info(
+        "Done! Saved %(pages_saved)s/%(pages_attempted)s HTML pages and "
+        "%(pdfs_downloaded)s/%(pdfs_found)s PDFs. Audit manifest: %(manifest)s",
+        {**summary, "manifest": "data/interim/scrape_manifest.json"},
+    )
 
 if __name__ == "__main__":
     main()
