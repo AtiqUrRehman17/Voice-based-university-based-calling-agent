@@ -7,6 +7,13 @@ from pathlib import Path
 # Base URLs
 BASE_URL = "https://www.ustb.edu.pk"
 
+# Crawl boundaries and request behavior. The fixed targets remain crawl seeds;
+# discovery follows same-site links up to these limits.
+SCRAPER_MAX_PAGES = 500
+SCRAPER_MAX_DEPTH = 3
+SCRAPER_REQUEST_DELAY_SECONDS = 0.5
+SCRAPER_RETRIES = 2
+
 # ---------------------------------------------------------------------------
 # SCRAPER TARGETS
 # Every URL here is a confirmed, working PHP endpoint discovered by browser.
@@ -164,6 +171,7 @@ DATA_DIR      = ROOT_DIR / "data"
 RAW_HTML_DIR  = DATA_DIR / "raw" / "html"
 RAW_PDF_DIR   = DATA_DIR / "raw" / "pdfs"
 INTERIM_DIR   = DATA_DIR / "interim"
+SCRAPE_MANIFEST_PATH = INTERIM_DIR / "scrape_manifest.json"
 PROCESSED_DIR = DATA_DIR / "processed"
 
 # ---------------------------------------------------------------------------
