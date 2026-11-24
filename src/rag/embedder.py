@@ -20,6 +20,8 @@ class Embedder:
         self.provider = provider.lower()
         self.model_name = model_name
         self._local_model = None
+        self._transformer_model = None
+        self._transformer_tokenizer = None
         self._openai_client = None
         self._hf_client = None
 
@@ -48,18 +50,42 @@ class Embedder:
 
         # 3. Local SentenceTransformers (fallback or explicit choice)
         if self.provider == "local":
-            try:
-                from sentence_transformers import SentenceTransformer
-                self._local_model = SentenceTransformer(self.model_name)
-                logger.info(f"Initialized Local Embedder with SentenceTransformer '{self.model_name}'")
-            except Exception as e:
-                logger.error(f"Failed to load SentenceTransformer: {e}")
+            self._load_local_model()
+
+    def _load_local_model(self) -> bool:
+        """Load the configured model locally, with Transformers as an ST-free fallback."""
+        try:
+            from sentence_transformers import SentenceTransformer
+            self._local_model = SentenceTransformer(self.model_name)
+            logger.info(f"Initialized Local Embedder with SentenceTransformer '{self.model_name}'")
+            return True
+        except Exception as sentence_transformers_error:
+            logger.warning(
+                f"Could not load SentenceTransformer '{self.model_name}': "
+                f"{sentence_transformers_error}. Trying direct Transformers mean pooling."
+            )
+
+        try:
+            from transformers import AutoModel, AutoTokenizer
+            self._transformer_tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+            self._transformer_model = AutoModel.from_pretrained(self.model_name)
+            self._transformer_model.eval()
+            logger.info(f"Initialized direct Transformers Embedder with '{self.model_name}'")
+            return True
+        except Exception as transformers_error:
+            logger.error(
+                f"Could not load '{self.model_name}' with Transformers: {transformers_error}. "
+                "Install sentence-transformers (recommended) or transformers and torch."
+            )
+            return False
 
     @property
     def dimension(self) -> int:
         """Returns the vector dimension produced by this embedder."""
         if self._local_model is not None:
             return self._local_model.get_sentence_embedding_dimension()
+        if self._transformer_model is not None:
+            return int(self._transformer_model.config.hidden_size)
         return get_configured_dimension()
 
     def embed_text(self, text: str) -> List[float]:
@@ -91,11 +117,11 @@ class Embedder:
                     embeddings.append(vec)
                 return embeddings
             except Exception as e:
-                logger.warning(f"HF API embedding failed: {e}. Falling back to local SentenceTransformer.")
-                if self._local_model is None:
-                    from sentence_transformers import SentenceTransformer
-                    self._local_model = SentenceTransformer(self.model_name)
-                return self._local_model.encode(texts, convert_to_numpy=True).tolist()
+                logger.warning(f"HF API embedding failed: {e}. Falling back to local '{self.model_name}'.")
+                self.provider = "local"
+                if self._local_model is None and self._transformer_model is None:
+                    self._load_local_model()
+                return self._embed_local(texts)
 
         # OpenAI API
         if self.provider == "openai" and self._openai_client is not None:
@@ -110,12 +136,38 @@ class Embedder:
                 raise e
 
         # Local SentenceTransformers
+        if self.provider == "local":
+            return self._embed_local(texts)
+
+        raise RuntimeError("No working embedding model available!")
+
+    def _embed_local(self, texts: List[str]) -> List[List[float]]:
         if self._local_model is not None:
             embeddings = self._local_model.encode(
-                texts, 
-                show_progress_bar=False, 
-                convert_to_numpy=True
+                texts,
+                show_progress_bar=False,
+                convert_to_numpy=True,
             )
             return embeddings.tolist()
 
-        raise RuntimeError("No working embedding model available!")
+        if self._transformer_model is not None and self._transformer_tokenizer is not None:
+            import torch
+
+            inputs = self._transformer_tokenizer(
+                texts,
+                padding=True,
+                truncation=True,
+                return_tensors="pt",
+            )
+            with torch.no_grad():
+                token_embeddings = self._transformer_model(**inputs).last_hidden_state
+                mask = inputs["attention_mask"].unsqueeze(-1).to(token_embeddings.dtype)
+                summed = (token_embeddings * mask).sum(dim=1)
+                counts = mask.sum(dim=1).clamp(min=1)
+                embeddings = summed / counts
+            return embeddings.cpu().tolist()
+
+        raise RuntimeError(
+            f"No local embedding backend could load '{self.model_name}'. "
+            "Install the project's requirements in the active virtual environment."
+        )
